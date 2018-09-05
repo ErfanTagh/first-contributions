@@ -16,6 +16,7 @@
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - A.Lau
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
+- [Erfan Taghvaei](https://github.com/ErfanTagh)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [J. Nathan Allen](https://github.com/nateonmission)
